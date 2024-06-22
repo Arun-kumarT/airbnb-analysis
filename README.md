@@ -66,7 +66,7 @@ The Exploratory Data Analysis (EDA) is done using Streamlit Application with the
 ## Dashboard Creation
 An interactive dashboard with 7+ reports are generated and filtered through a *Country* slicer in Power BI.  
 View the dashboard using the link mentioned below.  
-[Airbnb-Dashboard](https://github.com/)
+[Airbnb-Dashboard](https://github.com/Arun-kumarT/airbnb-analysis/blob/main/airbnb_powerbi.png)
 
 ## Further Improvements  
 The project can further be enhanced by building models to predict the hosts preferences based on seasons and availabilities. This will help us to better understand and recommend to the hosts accordingly.  
